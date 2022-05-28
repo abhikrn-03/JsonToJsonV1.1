@@ -2,18 +2,6 @@
 
 namespace JsonHelloWorldv101
 {
-    public class InputData
-    {
-        public string? Message { get; set; }
-        public string? Name { get; set; }
-    }
-
-    public class OutputData
-    {
-        public string? NewMessage { get; set; }
-        public string? NewName { get; set; }
-    }
-
     public class Program
     {
         public static void Main(string[] args)
